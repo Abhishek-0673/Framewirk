@@ -12,5 +12,4 @@ default cell above your current cell. This can be helpful if you open an already
 and notice you are missing some common imports.
 
 This extension is a work in progress and any help would be appreciated. Feel free to make contributions
-on GitHub or contact the author (Will Koehrsen) at
-wjk68@case.edu
+on GitHub or contact the author (Abhishek S) at abhishek@framewirk.com
